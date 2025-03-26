@@ -9,6 +9,8 @@ The repository includes the following topics:
 ### Basic Concepts
 - **Pandas, Numpy**
 - **Linear Regression** (Using NumPy & Scikit-Learn)
+- **Polynomial Regression** (Using NumPy & Scikit-Learn)
+
 
 **Continuous addition....**
 
