@@ -10,6 +10,7 @@ The repository includes the following topics:
 - **Pandas, Numpy**
 - **Linear Regression** (Using NumPy & Scikit-Learn)
 - **Polynomial Regression** (Using NumPy & Scikit-Learn)
+- **KNN Classifier** (Builted from scratch)
 
 
 **Continuous addition....**
